@@ -1,0 +1,5 @@
+D:\MyApp\HeThong\HeThong\MvcEngine\MvcEngine\bin\Debug\MvcEngine.dll
+D:\MyApp\HeThong\HeThong\MvcEngine\MvcEngine\bin\Debug\MvcEngine.pdb
+D:\MyApp\HeThong\HeThong\MvcEngine\MvcEngine\obj\Debug\MvcEngine.csproj.CoreCompileInputs.cache
+D:\MyApp\HeThong\HeThong\MvcEngine\MvcEngine\obj\Debug\MvcEngine.dll
+D:\MyApp\HeThong\HeThong\MvcEngine\MvcEngine\obj\Debug\MvcEngine.pdb
